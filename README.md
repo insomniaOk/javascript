@@ -1,1 +1,1 @@
-Read me
+http://insomniaok.github.io/javascript.
